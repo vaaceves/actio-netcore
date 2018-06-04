@@ -1,0 +1,14 @@
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.deps.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.dev.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CopyComplete
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.pdb

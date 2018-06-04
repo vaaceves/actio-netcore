@@ -1,0 +1,14 @@
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.deps.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.runtimeconfig.dev.json
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Api.pdb
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csprojAssemblyReference.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CoreCompileInputs.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfoInputs.cache
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfo.cs
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CopyComplete
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.dll
+C:\Users\vaaceves\documents\github\actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.pdb
