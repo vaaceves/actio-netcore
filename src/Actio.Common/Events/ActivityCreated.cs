@@ -1,8 +1,10 @@
+using System;
+
 namespace Actio.Common.Events
 {
-    public interface ActivityCreated : IAuthenticatedEvent
+    public class ActivityCreated: IAuthenticatedEvent
     {
-         public Guid Id { get; }
+        public Guid Id { get; }
 
         public Guid UserId { get; }
 
@@ -13,7 +15,7 @@ namespace Actio.Common.Events
         public string Description { get; }
 
         public DateTime CreatedAt { get; }
-
+        
         protected ActivityCreated ()
         {
         }
@@ -21,8 +23,8 @@ namespace Actio.Common.Events
         public ActivityCreated (Guid id, Guid userid, string category)
         {
             Id = id;
-            UserId = userid;
             Category = category;
+            UserId = userid;
         }
     }
 }
